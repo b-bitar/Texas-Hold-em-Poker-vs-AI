@@ -1,0 +1,190 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MSI -\Desktop\Bassel Bitar K1602821\Texas Holdem Poker vs AI\Texas Holdem Poker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.845651 ms
+value is -0.5
+initial hand strength = -0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4 of Diamonds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+9 of Clubs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 477c -> priority: 1 
+  Thread -> id: 3664 -> priority: 1 
+now it's the computer's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+value is -0.5
+0
+now it's the computer's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+0 1
+1 2
+2 22
+3 42
+4 43
+5 44
+6 45
+7 65
+8 66
+9 86
+10 87
+11 88
+12 596
+13 1104
+14 1612
+15 2120
+16 2628
+17 3136
+18 3644
+19 4152
+20 4660
+21 4661
+22 4662
+23 4682
+24 4702
+25 4703
+26 4704
+27 4705
+28 4751
+29 4771
+30 4772
+31 4792
+32 4793
+33 4794
+34 4795
+35 4796
+36 4816
+37 4836
+38 4837
+39 4838
+40 4839
+41 4885
+42 4886
+43 4906
+44 4907
+45 4908
+the preriver decision value is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+now it's the computer's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0 1
+1 2
+2 22
+3 42
+4 43
+5 44
+6 45
+7 65
+8 66
+9 86
+10 87
+11 88
+12 596
+13 1104
+14 1612
+15 2120
+16 2628
+17 3136
+18 3644
+19 4152
+20 4660
+21 4661
+22 4662
+23 4682
+24 4702
+25 4703
+26 4704
+27 4705
+28 4751
+29 4771
+30 4772
+31 4792
+32 4793
+33 4794
+34 4795
+35 4796
+36 4816
+37 4836
+38 4837
+39 4838
+40 4839
+41 4885
+42 4886
+43 4906
+44 4907
+45 4908
+the preriver decision value is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+now it's the computer's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+the postriver decision value is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+player's hand is: Queen of Diamonds 10 of Spades 9 of Diamonds 5 of Hearts 5 of Diamonds 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+computer's hand is: Queen of Diamonds 9 of Clubs 9 of Diamonds 4 of Diamonds 4 of Hearts 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.541448 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 0.869111 ms (FindLiveObjects: 0.116199 ms CreateObjectMapping: 0.126462 ms MarkObjects: 0.579529 ms  DeleteObjects: 0.026392 ms)
+
+value is 1
+initial hand strength = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+6 of Diamonds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Jack of Spades
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
